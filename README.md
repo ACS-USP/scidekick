@@ -12,6 +12,8 @@
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&colorA=222222&logo=typescript&logoColor=white" alt="TypeScript"></a>
   <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-DEA584?style=flat&colorA=222222&logo=rust&logoColor=white" alt="Rust"></a>
   <a href="https://bun.sh"><img src="https://img.shields.io/badge/runtime-Bun-f472b6?style=flat&colorA=222222" alt="Bun"></a>
+  <a href="https://github.com/ACS-USP/scidekick-tutorial"><img src="https://img.shields.io/badge/Tutorial-8A2BE2" alt="Tutorial"></a>
+  
 </p>
 
 Scidekick is a workspace-native agent for people doing serious coding and research. It reads and edits the repository you are in, uses language servers and debuggers, runs shell and eval workflows, searches the web, coordinates subagents, and keeps durable scientific notes under `.sk/`.
@@ -96,6 +98,8 @@ Role-based routing lets Scidekick use different models for different work:
 - `slow` — deeper reasoning.
 - `plan` — architecture and planning.
 - `commit` — commit messages and changelog work.
+
+[Tutorial](https://github.com/ACS-USP/scidekick-tutorial)
 
 ## Why Scidekick
 
